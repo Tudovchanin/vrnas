@@ -1,0 +1,20 @@
+<svg width="65.000000" height="65.000000" viewBox="0 0 65 65" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip77_3357">
+			<rect id="Location" rx="-0.500000" width="31.000000" height="31.000000" transform="translate(17.500000 17.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="0.000000" y1="32.500000" x2="65.000000" y2="32.500000" id="paint_linear_77_3356_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#0CBAF1"/>
+			<stop offset="1.000000" stop-color="#E95CE9"/>
+		</linearGradient>
+	</defs>
+	<circle id="Ellipse 45" cx="32.500000" cy="32.500000" r="32.500000" fill="#18181B" fill-opacity="1.000000"/>
+	<circle id="Ellipse 45" cx="32.500000" cy="32.500000" r="32.000000" stroke="url(#paint_linear_77_3356_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<rect id="Location" rx="-0.500000" width="31.000000" height="31.000000" transform="translate(17.500000 17.500000)" fill="#000000" fill-opacity="0"/>
+	<g clip-path="url(#clip77_3357)">
+		<path id="Combined-Shape" d="M33.33 19.66C39.39 19.66 44.33 24.63 44.33 30.75C44.33 38.26 35.72 45.66 33.33 45.66C30.93 45.66 22.33 38.26 22.33 30.75C22.33 24.63 27.26 19.66 33.33 19.66ZM33.33 21.66C28.36 21.66 24.33 25.74 24.33 30.75C24.33 37.12 31.83 43.33 33.33 43.66C34.83 43.33 42.33 37.12 42.33 30.75C42.33 25.74 38.29 21.66 33.33 21.66ZM33.33 26.33C35.72 26.33 37.66 28.27 37.66 30.66C37.66 33.05 35.72 35 33.33 35C30.94 35 29 33.05 29 30.66C29 28.27 30.94 26.33 33.33 26.33ZM33.33 28.33C32.04 28.33 31 29.37 31 30.66C31 31.95 32.04 33 33.33 33C34.61 33 35.66 31.95 35.66 30.66C35.66 29.37 34.61 28.33 33.33 28.33Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

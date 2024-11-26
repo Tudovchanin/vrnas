@@ -1,0 +1,20 @@
+<svg width="65.000000" height="65.000000" viewBox="0 0 65 65" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip77_3376">
+			<rect id="Message" rx="-0.500000" width="31.000000" height="31.000000" transform="translate(18.000000 17.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="0.000000" y1="32.500000" x2="65.000000" y2="32.500000" id="paint_linear_77_3346_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#0CBAF1"/>
+			<stop offset="1.000000" stop-color="#E95CE9"/>
+		</linearGradient>
+	</defs>
+	<circle id="Ellipse 45" cx="32.500000" cy="32.500000" r="32.500000" fill="#18181B" fill-opacity="1.000000"/>
+	<circle id="Ellipse 45" cx="32.500000" cy="32.500000" r="32.000000" stroke="url(#paint_linear_77_3346_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<rect id="Message" rx="-0.500000" width="31.000000" height="31.000000" transform="translate(18.000000 17.500000)" fill="#000000" fill-opacity="0"/>
+	<g clip-path="url(#clip77_3376)">
+		<path id="Combined-Shape" d="M39.71 19.66C44.15 19.66 47.5 23.29 47.5 28.09L47.5 37.25C47.5 39.71 46.63 41.93 45.05 43.5C43.63 44.91 41.79 45.66 39.73 45.66L26.59 45.66C24.53 45.66 22.7 44.91 21.28 43.5C19.7 41.93 18.83 39.71 18.83 37.25L18.83 28.09C18.83 23.29 22.18 19.66 26.62 19.66L39.71 19.66ZM39.71 21.66L26.62 21.66C23.26 21.66 20.83 24.37 20.83 28.09L20.83 37.25C20.83 39.17 21.49 40.89 22.69 42.08C23.73 43.12 25.08 43.66 26.6 43.66L39.71 43.66C39.71 43.66 39.72 43.66 39.73 43.66C41.25 43.66 42.6 43.12 43.63 42.08C44.83 40.89 45.5 39.17 45.5 37.25L45.5 28.09C45.5 24.37 43.06 21.66 39.71 21.66ZM41.81 27.83C42.16 28.26 42.09 28.89 41.66 29.24L35.74 34.06C34.99 34.65 34.09 34.95 33.2 34.95C32.31 34.95 31.42 34.65 30.67 34.06L24.69 29.24C24.26 28.9 24.2 28.27 24.54 27.84C24.89 27.41 25.52 27.34 25.95 27.69L31.92 32.5C32.67 33.1 33.73 33.1 34.49 32.5L40.4 27.69C40.83 27.34 41.46 27.4 41.81 27.83Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
